@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+}
+
+.container {
+    background-color: black;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
