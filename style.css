@@ -9,8 +9,8 @@
 
 img {
   height: 200px;
-  object-fit: contain;
   width: 200px;
+  object-fit: contain;
 }
 
 @media (min-width: 800px) {
