@@ -2,11 +2,19 @@
   margin: 0;
 }
 
-.container {
-  background-color: black;
+.container-fluid {
+    margin-top: 20px;
+  /* background-color: teal; */
 }
 
 img {
-  height: 150px;
-  width: 150px;
+  height: 200px;
+  object-fit: contain;
+  width: 200px;
+}
+
+@media (min-width: 800px) {
+    .archer-9 img {
+        /* height: 500px; */
+    }
 }
